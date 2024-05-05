@@ -13,7 +13,7 @@ class TextStyles {
   static TextStyle font32BlueBold = TextStyle(
     fontSize: 32.sp,
     fontWeight: FontWeightHelper.bold,
-    color: ColorsManager.mainBlue,
+    color: Color.fromARGB(255, 119, 162, 227),
   );
 
   static TextStyle font13BlueSemiBold = TextStyle(
