@@ -8,5 +8,4 @@ void main() {
       appRouter: AppRouter(),
     ),
   );
-  
 }
